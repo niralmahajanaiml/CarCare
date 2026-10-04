@@ -1,0 +1,53 @@
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass                                    
+venv\Scripts\activate                                     
+(venv) PS C:\Users\LENOVO\Desktop\CarCare_RAG_Demo> streamlit run app.py       
+
+streamlit run app.py
+
+What should I do if the engine temperature warning appears?
+What does Eco mode do?
+When should engine oil be serviced?
+What tyre pressure is recommended?
+
+.
+
+🔴 Warning / Dashboard Questions
+What does the battery warning light mean?
+What should I do if the battery warning stays on?
+What does the engine temperature warning indicate?
+What should I do if the engine temperature warning appears?
+What does the brake warning mean?
+What can cause the tyre pressure warning?
+Which warning requires me to stop the vehicle immediately?
+What should I do if a serious warning remains illuminated?
+What does the charging-system warning indicate?
+What should I do if the warning appears while driving?
+🛞 Tyre Questions
+What tyre pressure is recommended?
+Should tyre pressure be checked when the tyres are hot or cold?
+Can the recommended tyre pressure vary with vehicle load?
+What does the tyre-pressure warning indicate?
+What should I check if the tyre-pressure warning appears?
+Where should I confirm the exact tyre pressure for my vehicle?
+🛢️ Maintenance Questions
+When should the engine oil be serviced?
+How should I check the engine oil level?
+Where should the vehicle be positioned when checking engine oil?
+What should the engine oil level be between?
+What happens if the engine oil is below the minimum level?
+What is the maintenance interval mentioned in the manual?
+🚗 Driving Modes
+What does Eco mode do?
+How does Eco mode affect driving?
+What is Normal mode used for?
+What does Sport mode do?
+When would I use Eco mode?
+What is the difference between Eco and Sport mode?
+Which driving mode is intended for normal driving?
+🆘 Safety Questions
+What should I do if the vehicle starts overheating?
+What should I do if a serious warning remains on?
+When should I contact an authorised service facility?
+What should I do if a warning is accompanied by smoke?
+What should I do if I experience loss of braking?
+Can I continue driving when a serious warning appears?

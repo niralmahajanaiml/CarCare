@@ -1,0 +1,30 @@
+[
+  {
+    "vehicle_id": "tata_nexon_2025",
+    "brand": "Tata",
+    "model": "Nexon",
+    "year": 2025,
+    "manual": "vehicles/tata/nexon_2025/tata_nexon_2025_demo_manual.pdf"
+  },
+  {
+    "vehicle_id": "hyundai_creta_2025",
+    "brand": "Hyundai",
+    "model": "Creta",
+    "year": 2025,
+    "manual": "vehicles/hyundai/creta_2025/hyundai_creta_2025_demo_manual.pdf"
+  },
+  {
+    "vehicle_id": "mahindra_xuv_3xo_2025",
+    "brand": "Mahindra",
+    "model": "XUV 3XO",
+    "year": 2025,
+    "manual": "vehicles/mahindra/xuv3xo_2025/mahindra_xuv3xo_2025_demo_manual.pdf"
+  },
+  {
+    "vehicle_id": "demo_auto_eclipse_2025",
+    "brand": "Demo Auto",
+    "model": "Eclipse",
+    "year": 2025,
+    "manual": "vehicles/demo_auto/eclipse_2025/demo_auto_eclipse_2025_manual.pdf"
+  }
+]
